@@ -108,7 +108,7 @@ Suena bien que la nota de la melodía (sobre todo si es larga) esté en la estru
 
 Una vez que definís sobre qué escala vas a trabajar, cualquier estructura que puedas cifrar como tríada o séptima que incluya por lo menos una tensión es utilizable como una capa.
 
-Los híbridos más poulares tienen como estructura superior una tríada.
+Los híbridos más populares tienen como estructura superior una tríada.
 
 Los poliacordes son muy usados en dominantes. Hay que descartar los que tienen la cuarta justa o la septima mayor del dominante para la capa superior. Si tenés un poliacorde donde la quinta de un acorde entra en conflicto con el otro acorde, podés volarla.
 
